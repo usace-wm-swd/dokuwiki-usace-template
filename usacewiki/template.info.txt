@@ -1,0 +1,7 @@
+base     dokuwiki
+author   Charles graham
+email    charles.r.graham@usace.army.mil
+date     2024-04-04
+name     USACE Template
+desc     A USACE themed template created from the dokuwiki template base
+url      https://github.com/usace-wm-swd/dokuwiki-usace-template
